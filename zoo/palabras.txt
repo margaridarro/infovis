@@ -1,0 +1,10 @@
+time-series values
+drill-down
+individual series
+exploratory data analysis
+box-and-whisker plot
+quantiles
+multivariate data
+icicle layout
+sunburst layout
+force-directed layout
