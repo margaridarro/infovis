@@ -1,0 +1,83 @@
+,departure_date,departure_airport_code,arrival_airport_code,window_seat,group_size,arrival_airport_name,arrival_country,arrival_lat,arrival_lon,departure_airport_name,departure_country,departure_lat,departure_lon
+0,2002-08-02,LIS,HER,0,4,Nikos Kazantzakis Airport,Greece,35339699,251803,Lisboa,Portugal,38781899,-91333
+1,2004-08-05,LIS,REC,0,4,Guararapes International,Brazil,-81258,-34923901,Lisboa,Portugal,38781899,-91333
+2,2005-08-10,LIS,PUJ,0,9,Punta Cana International,Dominican Republic,185667,-68383301,Lisboa,Portugal,38781899,-91333
+3,2006-07-29,LIS,GRU,0,4,Guarulhos Intl,Brazil,-23434999,-46472801,Lisboa,Portugal,38781899,-91333
+4,2008-08-03,LIS,TUN,0,9,Carthage,Tunisia,36852501,102294,Lisboa,Portugal,38781899,-91333
+5,2010-08-10,LIS,MAH,0,10,Menorca,Spain,39861401,42153,Lisboa,Portugal,38781899,-91333
+6,2012-08-09,LIS,PRG,1,3,Ruzyne,Czech Republic,50099998,142667,Lisboa,Portugal,38781899,-91333
+7,2013-08-07,LIS,IST,0,3,Istanbul Airport,Turkey,409767,288153,Lisboa,Portugal,38781899,-91333
+8,2014-07-27,LIS,DXB,0,3,Dubai International,United Arab Emirates,2525,553578,Lisboa,Portugal,38781899,-91333
+9,2015-08-01,LIS,MAD,0,3,Adolfo Suarez-Barajas,Spain,40473598,-35611,Lisboa,Portugal,38781899,-91333
+10,2023-07-21,LIS,MAD,1,2,Adolfo Suarez-Barajas,Spain,40473598,-35611,Lisboa,Portugal,38781899,-91333
+11,2016-08-02,LIS,SVO,0,4,Sheremetyevo,Russian Federation,55983299,37416698,Lisboa,Portugal,38781899,-91333
+12,2002-08-09,HER,LIS,0,4,Lisboa,Portugal,38781899,-91333,Nikos Kazantzakis Airport,Greece,35339699,251803
+13,2004-08-13,REC,LIS,0,4,Lisboa,Portugal,38781899,-91333,Guararapes International,Brazil,-81258,-34923901
+14,2005-08-24,PUJ,LIS,0,9,Lisboa,Portugal,38781899,-91333,Punta Cana International,Dominican Republic,185667,-68383301
+15,2006-08-12,MAO,LIS,0,4,Lisboa,Portugal,38781899,-91333,Eduardo Gomes Intl,Brazil,-30392,-60049999
+16,2008-08-10,TUN,LIS,1,9,Lisboa,Portugal,38781899,-91333,Carthage,Tunisia,36852501,102294
+17,2010-08-16,MAH,LIS,0,10,Lisboa,Portugal,38781899,-91333,Menorca,Spain,39861401,42153
+18,2012-08-15,VIE,LIS,0,3,Lisboa,Portugal,38781899,-91333,Vienna International,Austria,48111099,165583
+19,2013-08-13,AYT,LIS,0,3,Lisboa,Portugal,38781899,-91333,Antalya,Turkey,36905602,307906
+20,2014-08-08,DXB,LIS,0,3,Lisboa,Portugal,38781899,-91333,Dubai International,United Arab Emirates,2525,553578
+21,2014-07-28,DXB,KUL,1,3,Kuala Lumpur International Airport,Malaysia,27456,1017099,Dubai International,United Arab Emirates,2525,553578
+22,2015-08-11,MAD,LIS,0,3,Lisboa,Portugal,38781899,-91333,Adolfo Suarez-Barajas,Spain,40473598,-35611
+23,2015-08-02,MAD,HAV,0,3,Jose Marti Intl,Cuba,22989401,-82407501,Adolfo Suarez-Barajas,Spain,40473598,-35611
+24,2019-08-13,MAD,CUN,0,5,Cancun International,Mexico,210333,-86866699,Adolfo Suarez-Barajas,Spain,40473598,-35611
+25,2023-07-22,MAD,EZE,0,2,Ministro Pistarini,Argentina,-3482,-58533901,Adolfo Suarez-Barajas,Spain,40473598,-35611
+26,2016-08-13,PIE,LIS,0,4,Lisboa,Portugal,38781899,-91333,St.Pete-Clearwater Int,United States,279167,-82683296
+27,2006-08-12,GRU,MAO,0,4,Eduardo Gomes Intl,Brazil,-30392,-60049999,Guarulhos Intl,Brazil,-23434999,-46472801
+28,2009-07-31,OPO,BVC,0,9,Rabil Airport,Cape Verde,160833,-228333,Porto,Portugal,41238098,-86747
+29,2011-04-11,OPO,CDG,0,7,Charles De Gaulle,France,49009701,25486,Porto,Portugal,41238098,-86747
+30,2016-04-15,OPO,CDG,0,2,Charles De Gaulle,France,49009701,25486,Porto,Portugal,41238098,-86747
+31,2016-06-10,OPO,CDG,0,3,Charles De Gaulle,France,49009701,25486,Porto,Portugal,41238098,-86747
+32,2013-01-21,OPO,LCY,1,5,City Airport,United Kingdom,51516701,-667,Porto,Portugal,41238098,-86747
+33,2017-07-16,OPO,LCY,0,1,City Airport,United Kingdom,51516701,-667,Porto,Portugal,41238098,-86747
+34,2013-07-17,OPO,FCO,0,3,Fiumicino,Italy,41800301,122389,Porto,Portugal,41238098,-86747
+35,2014-11-13,OPO,MRS,0,2,Marignane,France,434356,52164,Porto,Portugal,41238098,-86747
+36,2014-08-16,OPO,DBV,0,2,Dubrovnik,Croatia,42563301,18265301,Porto,Portugal,41238098,-86747
+37,2015-04-02,OPO,AMS,0,4,Schiphol,Netherlands,523083,47681,Porto,Portugal,41238098,-86747
+38,2015-07-18,OPO,DUB,0,4,Dublin International,Ireland,53432499,-62522,Porto,Portugal,41238098,-86747
+39,2016-07-18,OPO,VCE,0,5,Marco Polo,Italy,455,1235,Porto,Portugal,41238098,-86747
+40,2018-08-01,OPO,ACE,0,3,Lanzarote,Spain,28942499,-136047,Porto,Portugal,41238098,-86747
+41,2018-08-15,OPO,BRU,0,2,Brussels Airport,Belgium,50901402,44844,Porto,Portugal,41238098,-86747
+42,2023-03-10,OPO,BRU,0,15,Brussels Airport,Belgium,50901402,44844,Porto,Portugal,41238098,-86747
+43,2019-04-20,OPO,STN,0,2,Stansted,United Kingdom,51882801,2339,Porto,Portugal,41238098,-86747
+44,2019-07-16,OPO,STN,0,2,Stansted,United Kingdom,51882801,2339,Porto,Portugal,41238098,-86747
+45,2019-08-01,OPO,WAW,0,3,Okecie,Poland,52166698,209667,Porto,Portugal,41238098,-86747
+46,2021-08-09,OPO,PDL,0,8,Nordela,Portugal,377472,-256819,Porto,Portugal,41238098,-86747
+47,2022-11-19,OPO,MUC,0,1,Franz Josef Strauss International,Germany,48349998,117833,Porto,Portugal,41238098,-86747
+48,2009-08-06,BVC,OPO,0,9,Porto,Portugal,41238098,-86747,Rabil Airport,Cape Verde,160833,-228333
+49,2011-04-16,CDG,OPO,1,7,Porto,Portugal,41238098,-86747,Charles De Gaulle,France,49009701,25486
+50,2016-04-19,CDG,OPO,1,2,Porto,Portugal,41238098,-86747,Charles De Gaulle,France,49009701,25486
+51,2016-06-14,CDG,OPO,0,3,Porto,Portugal,41238098,-86747,Charles De Gaulle,France,49009701,25486
+52,2013-01-25,LCY,OPO,0,5,Porto,Portugal,41238098,-86747,City Airport,United Kingdom,51516701,-667
+53,2017-07-21,LCY,OPO,0,1,Porto,Portugal,41238098,-86747,City Airport,United Kingdom,51516701,-667
+54,2017-07-17,LCY,ARN,1,2,Arlanda,Sweden,596619,17933901,City Airport,United Kingdom,51516701,-667
+55,2013-07-22,VCE,OPO,1,3,Porto,Portugal,41238098,-86747,Marco Polo,Italy,455,1235
+56,2014-11-17,MRS,OPO,1,2,Porto,Portugal,41238098,-86747,Marignane,France,434356,52164
+57,2014-08-10,DBV,OPO,0,2,Porto,Portugal,41238098,-86747,Dubrovnik,Croatia,42563301,18265301
+58,2015-04-06,AMS,OPO,1,4,Porto,Portugal,41238098,-86747,Schiphol,Netherlands,523083,47681
+59,2015-07-26,BFS,OPO,0,4,Porto,Portugal,41238098,-86747,Belfast Intl,United Kingdom,54654202,-6225
+60,2016-07-26,ATH,OPO,0,5,Porto,Portugal,41238098,-86747,Eleftherios Venizelos Airport,Greece,37936401,23944401
+61,2018-08-06,ACE,OPO,1,3,Porto,Portugal,41238098,-86747,Lanzarote,Spain,28942499,-136047
+62,2018-08-20,BRU,OPO,0,2,Porto,Portugal,41238098,-86747,Brussels Airport,Belgium,50901402,44844
+63,2023-03-14,BRU,OPO,0,15,Porto,Portugal,41238098,-86747,Brussels Airport,Belgium,50901402,44844
+64,2019-04-25,STN,OPO,0,2,Porto,Portugal,41238098,-86747,Stansted,United Kingdom,51882801,2339
+65,2019-07-21,STN,OPO,0,2,Porto,Portugal,41238098,-86747,Stansted,United Kingdom,51882801,2339
+66,2019-08-07,BER,OPO,1,3,Porto,Portugal,41238098,-86747,Brandenburg,Germany,52366699,135033
+67,2021-08-16,PDL,OPO,0,8,Porto,Portugal,41238098,-86747,Nordela,Portugal,377472,-256819
+68,2021-08-13,PDL,ACL,1,8,Aguaclara,Colombia,475,-73,Nordela,Portugal,377472,-256819
+69,2022-11-25,ZRH,OPO,0,1,Porto,Portugal,41238098,-86747,Zurich,Switzerland,47458302,85517
+70,2017-07-20,ARN,LCY,0,2,City Airport,United Kingdom,51516701,-667,Arlanda,Sweden,596619,17933901
+71,2013-08-13,IST,AYT,0,3,Antalya,Turkey,36905602,307906,Istanbul Airport,Turkey,409767,288153
+72,2014-08-07,MFM,DXB,0,3,Dubai International,United Arab Emirates,2525,553578,Macau International,Macau (SAR),22233299,113583298
+73,2014-07-31,KUL,SIN,0,3,Changi,Singapore,13578,103990799,Kuala Lumpur International Airport,Malaysia,27456,1017099
+74,2014-08-02,SIN,HKG,0,3,Hong Kong Intl,Hong Kong (SAR),223036,113920502,Changi,Singapore,13578,103990799
+75,2015-08-11,HAV,MAD,0,3,Adolfo Suarez-Barajas,Spain,40473598,-35611,Jose Marti Intl,Cuba,22989401,-82407501
+76,2019-08-22,CUN,MAD,0,5,Adolfo Suarez-Barajas,Spain,40473598,-35611,Cancun International,Mexico,210333,-86866699
+77,2021-08-16,ACL,PDL,0,8,Nordela,Portugal,377472,-256819,Aguaclara,Colombia,475,-73
+78,2022-11-20,MUC,SFO,0,1,San Francisco Intl,United States,376194,-122372803,Franz Josef Strauss International,Germany,48349998,117833
+79,2022-11-25,SFO,ZRH,0,1,Zurich,Switzerland,47458302,85517,San Francisco Intl,United States,376194,-122372803
+80,2023-09-10,JUJ,EZE,1,5,Ministro Pistarini,Argentina,-3482,-58533901,Gobernador H. Guzman,Argentina,-24385,-65097397
+81,2023-09-05,EZE,SLA,1,4,Martin M. de Guemes,Argentina,-24855,-65472198,Ministro Pistarini,Argentina,-3482,-58533901
